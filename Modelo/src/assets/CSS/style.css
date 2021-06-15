@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*  {
+    box-sizing: border-box;
+    outline: 0;
+
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #35066b;
+    font-family: 'Roboto';
+    font-size: 1.3em;
+    line-height: 1.5em;   
+}
+
+.Caixa {
+    max-width: 640px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.password {
+
+    font-size: 28px;
+    color: #35066b;
+    margin: 40px 0;
+
+}
+
+input[type="checkbox"]{
+
+    width: 20px;
+    height: 20px;
+
+} 
+
+button{
+
+    display: block;
+    background: #35066b;
+    color: #fff;
+    font-size: 1em;
+
+}
