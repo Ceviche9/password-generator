@@ -8,6 +8,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 ## Getting Started
->1. Clone this repo using `https://github.com/Ceviche9/Gerador-de-CPF`
+>1. Clone this repo using `https://github.com/Ceviche9/password-generator`
 >2. Run `npm install` to install dependencies.<br />
 
