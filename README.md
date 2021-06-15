@@ -1,4 +1,5 @@
 # Password Generator
+![Big Number](https://user-images.githubusercontent.com/83431609/122110207-a8a48280-cdf4-11eb-96ce-df8b13b8544c.png)
 
 ## Technologies & Tools
 
